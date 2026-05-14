@@ -8,7 +8,6 @@ A modern, highly attractive, and responsive **Stopwatch & Timer** application bu
 
 ## 📸 Screenshots
 
-*(Replace these placeholder image paths with your actual screenshots)*
 
 ### Stopwatch Mode
 ![Stopwatch Screenshot](./public/stopwatch.png)
@@ -46,7 +45,7 @@ A modern, highly attractive, and responsive **Stopwatch & Timer** application bu
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/chaitimer.git
+   git clone https://github.com/peeyushtiwari888/STOPWATCH
    cd chaitimer
    ```
 
@@ -76,5 +75,5 @@ src/
 ```
 
 ## 🤝 Contributing
-Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/your-username/chaitimer/issues).
+Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/peeyushtiwari888/STOPWATCH).
 
