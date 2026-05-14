@@ -2,7 +2,8 @@
 
 A modern, highly attractive, and responsive **Stopwatch & Timer** application built with React and Tailwind CSS. It features a sleek dark-themed UI, glassmorphism elements, and smooth animations.
 
-### 🌐 [Live Demo](https://stopwatch-seven-weld.vercel.app/)
+### 🌐 Live Demo Link:
+(https://stopwatch-seven-weld.vercel.app/)
 
 ---
 
